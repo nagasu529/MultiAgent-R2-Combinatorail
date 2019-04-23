@@ -15,7 +15,6 @@ import jade.lang.acl.ACLMessage;
 import jade.lang.acl.MessageTemplate;
 
 import java.text.DecimalFormat;
-import java.util.*;
 
 public class randValEngSeller extends Agent {
     randValEngSellerGUI myGui;
